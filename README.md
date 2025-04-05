@@ -95,8 +95,6 @@ Make sure your terminal is in the correct directory and that all dependencies ar
 You can deploy this Streamlit app using:
 
 - [Streamlit Cloud](https://streamlit.io/cloud)
-- [Render](https://render.com/)
-- [Heroku](https://heroku.com/)
 
 For deployment:
 
@@ -133,6 +131,6 @@ company = "Amazon"
 
 ## Author
 
-**Your Name**\
+**Pabbathi Venkata Karthikeya**\
 Feel free to fork, contribute, and suggest improvements!
 
